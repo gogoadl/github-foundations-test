@@ -5,3 +5,4 @@ this repository is for the test of github foundation course.
 I just tested below contents 
 
 + issue form
++ security policy and report a vulnerability
